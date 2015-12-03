@@ -1,0 +1,24 @@
+{
+  "name": "liu",
+  "version": "1.0.0",
+  "description": "liu",
+  "main": "liu.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "liu"
+  },
+  "keywords": [
+    "liu"
+  ],
+  "author": {
+    "name": "liuyingan"
+  },
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "_id": "liu@1.0.0",
+  "_shasum": "28e960f535cbbe8a05b465979617936fa5ec87d6",
+  "_from": "liu@*"
+}

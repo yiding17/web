@@ -1,0 +1,322 @@
+Example app listening at http://0.0.0.0:3000
+{ title: { text: '月平均气温' },
+  subtitle: { text: 'Source: runoob.com' },
+  xAxis: 
+   { categories: 
+      [ '一月',
+        '二月',
+        '三月',
+        '四月',
+        '五月',
+        '六月',
+        '七月',
+        '八月',
+        '九月',
+        '十月',
+        '十一月',
+        '十二月' ] },
+  yAxis: { title: { text: 'Temperature (°C)' }, plotLines: [ [Object] ] },
+  tooltip: { valueSuffix: '°C' },
+  legend: 
+   { layout: 'vertical',
+     align: 'right',
+     verticalAlign: 'middle',
+     borderWidth: 0 },
+  series: 
+   [ { name: 'Tokyo', data: [Object] },
+     { name: 'New York', data: [Object] },
+     { name: 'Berlin', data: [Object] },
+     { name: 'London', data: [Object] } ] }
+there is a http get request...
+{ title: { text: '月平均气温' },
+  subtitle: { text: 'Source: runoob.com' },
+  xAxis: 
+   { categories: 
+      [ '一月',
+        '二月',
+        '三月',
+        '四月',
+        '五月',
+        '六月',
+        '七月',
+        '八月',
+        '九月',
+        '十月',
+        '十一月',
+        '十二月' ] },
+  yAxis: { title: { text: 'Temperature (°C)' }, plotLines: [ [Object] ] },
+  tooltip: { valueSuffix: '°C' },
+  legend: 
+   { layout: 'vertical',
+     align: 'right',
+     verticalAlign: 'middle',
+     borderWidth: 0 },
+  series: 
+   [ { name: 'Tokyo', data: [Object] },
+     { name: 'New York', data: [Object] },
+     { name: 'Berlin', data: [Object] },
+     { name: 'London', data: [Object] } ] }
+there is a http get request...
+{ title: { text: '月平均气温' },
+  subtitle: { text: 'Source: runoob.com' },
+  xAxis: 
+   { categories: 
+      [ '一月',
+        '二月',
+        '三月',
+        '四月',
+        '五月',
+        '六月',
+        '七月',
+        '八月',
+        '九月',
+        '十月',
+        '十一月',
+        '十二月' ] },
+  yAxis: { title: { text: 'Temperature (°C)' }, plotLines: [ [Object] ] },
+  tooltip: { valueSuffix: '°C' },
+  legend: 
+   { layout: 'vertical',
+     align: 'right',
+     verticalAlign: 'middle',
+     borderWidth: 0 },
+  series: 
+   [ { name: 'Tokyo', data: [Object] },
+     { name: 'New York', data: [Object] },
+     { name: 'Berlin', data: [Object] },
+     { name: 'London', data: [Object] } ] }
+there is a http get request...
+{ title: { text: '月平均气温' },
+  subtitle: { text: 'Source: runoob.com' },
+  xAxis: 
+   { categories: 
+      [ '一月',
+        '二月',
+        '三月',
+        '四月',
+        '五月',
+        '六月',
+        '七月',
+        '八月',
+        '九月',
+        '十月',
+        '十一月',
+        '十二月' ] },
+  yAxis: { title: { text: 'Temperature (°C)' }, plotLines: [ [Object] ] },
+  tooltip: { valueSuffix: '°C' },
+  legend: 
+   { layout: 'vertical',
+     align: 'right',
+     verticalAlign: 'middle',
+     borderWidth: 0 },
+  series: 
+   [ { name: 'Tokyo', data: [Object] },
+     { name: 'New York', data: [Object] },
+     { name: 'Berlin', data: [Object] },
+     { name: 'London', data: [Object] } ] }
+there is a http get request...
+{ title: { text: '月平均气温' },
+  subtitle: { text: 'Source: runoob.com' },
+  xAxis: 
+   { categories: 
+      [ '一月',
+        '二月',
+        '三月',
+        '四月',
+        '五月',
+        '六月',
+        '七月',
+        '八月',
+        '九月',
+        '十月',
+        '十一月',
+        '十二月' ] },
+  yAxis: { title: { text: 'Temperature (°C)' }, plotLines: [ [Object] ] },
+  tooltip: { valueSuffix: '°C' },
+  legend: 
+   { layout: 'vertical',
+     align: 'right',
+     verticalAlign: 'middle',
+     borderWidth: 0 },
+  series: 
+   [ { name: 'Tokyo', data: [Object] },
+     { name: 'New York', data: [Object] },
+     { name: 'Berlin', data: [Object] },
+     { name: 'London', data: [Object] } ] }
+there is a http get request...
+Example app listening at http://0.0.0.0:10000
+{ title: { text: '月平均气温' },
+  subtitle: { text: 'Source: runoob.com' },
+  xAxis: 
+   { categories: 
+      [ '一月',
+        '二月',
+        '三月',
+        '四月',
+        '五月',
+        '六月',
+        '七月',
+        '八月',
+        '九月',
+        '十月',
+        '十一月',
+        '十二月' ] },
+  yAxis: { title: { text: 'Temperature (°C)' }, plotLines: [ [Object] ] },
+  tooltip: { valueSuffix: '°C' },
+  legend: 
+   { layout: 'vertical',
+     align: 'right',
+     verticalAlign: 'middle',
+     borderWidth: 0 },
+  series: 
+   [ { name: 'Tokyo', data: [Object] },
+     { name: 'New York', data: [Object] },
+     { name: 'Berlin', data: [Object] },
+     { name: 'London', data: [Object] } ] }
+there is a http get request...
+{ title: { text: '月平均气温' },
+  subtitle: { text: 'Source: runoob.com' },
+  xAxis: 
+   { categories: 
+      [ '一月',
+        '二月',
+        '三月',
+        '四月',
+        '五月',
+        '六月',
+        '七月',
+        '八月',
+        '九月',
+        '十月',
+        '十一月',
+        '十二月' ] },
+  yAxis: { title: { text: 'Temperature (°C)' }, plotLines: [ [Object] ] },
+  tooltip: { valueSuffix: '°C' },
+  legend: 
+   { layout: 'vertical',
+     align: 'right',
+     verticalAlign: 'middle',
+     borderWidth: 0 },
+  series: 
+   [ { name: 'Tokyo', data: [Object] },
+     { name: 'New York', data: [Object] },
+     { name: 'Berlin', data: [Object] },
+     { name: 'London', data: [Object] } ] }
+there is a http get request...
+{ title: { text: '月平均气温' },
+  subtitle: { text: 'Source: runoob.com' },
+  xAxis: 
+   { categories: 
+      [ '一月',
+        '二月',
+        '三月',
+        '四月',
+        '五月',
+        '六月',
+        '七月',
+        '八月',
+        '九月',
+        '十月',
+        '十一月',
+        '十二月' ] },
+  yAxis: { title: { text: 'Temperature (°C)' }, plotLines: [ [Object] ] },
+  tooltip: { valueSuffix: '°C' },
+  legend: 
+   { layout: 'vertical',
+     align: 'right',
+     verticalAlign: 'middle',
+     borderWidth: 0 },
+  series: 
+   [ { name: 'Tokyo', data: [Object] },
+     { name: 'New York', data: [Object] },
+     { name: 'Berlin', data: [Object] },
+     { name: 'London', data: [Object] } ] }
+there is a http get request...
+Example app listening at http://0.0.0.0:10000
+{ title: { text: '月平均气温' },
+  subtitle: { text: 'Source: runoob.com' },
+  xAxis: 
+   { categories: 
+      [ '一月',
+        '二月',
+        '三月',
+        '四月',
+        '五月',
+        '六月',
+        '七月',
+        '八月',
+        '九月',
+        '十月',
+        '十一月',
+        '十二月' ] },
+  yAxis: { title: { text: 'Temperature (°C)' }, plotLines: [ [Object] ] },
+  tooltip: { valueSuffix: '°C' },
+  legend: 
+   { layout: 'vertical',
+     align: 'right',
+     verticalAlign: 'middle',
+     borderWidth: 0 },
+  series: 
+   [ { name: 'Tokyo', data: [Object] },
+     { name: 'New York', data: [Object] },
+     { name: 'Berlin', data: [Object] },
+     { name: 'London', data: [Object] } ] }
+there is a http get request...
+{ title: { text: '月平均气温' },
+  subtitle: { text: 'Source: runoob.com' },
+  xAxis: 
+   { categories: 
+      [ '一月',
+        '二月',
+        '三月',
+        '四月',
+        '五月',
+        '六月',
+        '七月',
+        '八月',
+        '九月',
+        '十月',
+        '十一月',
+        '十二月' ] },
+  yAxis: { title: { text: 'Temperature (°C)' }, plotLines: [ [Object] ] },
+  tooltip: { valueSuffix: '°C' },
+  legend: 
+   { layout: 'vertical',
+     align: 'right',
+     verticalAlign: 'middle',
+     borderWidth: 0 },
+  series: 
+   [ { name: 'Tokyo', data: [Object] },
+     { name: 'New York', data: [Object] },
+     { name: 'Berlin', data: [Object] },
+     { name: 'London', data: [Object] } ] }
+there is a http get request...
+{ title: { text: '月平均气温' },
+  subtitle: { text: 'Source: runoob.com' },
+  xAxis: 
+   { categories: 
+      [ '一月',
+        '二月',
+        '三月',
+        '四月',
+        '五月',
+        '六月',
+        '七月',
+        '八月',
+        '九月',
+        '十月',
+        '十一月',
+        '十二月' ] },
+  yAxis: { title: { text: 'Temperature (°C)' }, plotLines: [ [Object] ] },
+  tooltip: { valueSuffix: '°C' },
+  legend: 
+   { layout: 'vertical',
+     align: 'right',
+     verticalAlign: 'middle',
+     borderWidth: 0 },
+  series: 
+   [ { name: 'Tokyo', data: [Object] },
+     { name: 'New York', data: [Object] },
+     { name: 'Berlin', data: [Object] },
+     { name: 'London', data: [Object] } ] }
+there is a http get request...

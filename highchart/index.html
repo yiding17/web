@@ -1,0 +1,62 @@
+<html>
+<head>	
+	<meta charset="utf-8"/>
+<title>Highcharts Tutorial</title>
+   <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+   <script src="http://code.highcharts.com/highcharts.js"></script>
+</head>
+<body>
+<div id="container" style="width: 550px; height: 400px; margin: 0 auto"></div>
+<button id="b1" type="button">显示曲线图</button>
+<script language="JavaScript">
+$(document).ready(function() {
+	// json={};
+   	$("#b1").click(function (){
+   		json = $.ajax({          
+   			// url:"http://203.158.23.80:3000",
+            url:"http://203.158.23.80:10000/omy",
+            dataType:'jsonp',
+            success:function(msg){
+               alert('nice...');
+               $('#container').highcharts(msg);;
+            },
+            error:function(msg){
+               alert('bad');
+               alert(msg);
+            },
+   	  });
+
+         // json = $.ajax({
+         //    //url:"http://203.158.23.80:3000",
+         //    url:"json.txt",
+         //    dataType:"text",
+         //    success:function(msg){
+         //          var data = JSON.parse(msg);
+         //          alert(data);
+         //          alert(data.title.text);
+         //         $('#container').highcharts(data);
+         //    }
+         // });
+
+
+         // json = $.ajax({
+         //    //url:"http://203.158.23.80:3000",
+         //    url:"json.txt",
+         //    dataType:"json",
+         //    success:function(msg){
+         //          alert(msg.title.text);
+         //         $('#container').highcharts(msg);
+         //    }
+         // });
+
+
+   	});
+
+   // $('#container').highcharts(json);
+
+   // $('#container').append(evjson+")"));
+});
+</script>
+</body>
+</html>
+			

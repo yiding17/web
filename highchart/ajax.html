@@ -1,0 +1,29 @@
+<html>
+<head>	
+	<meta charset="utf-8"/>
+<title>Highcharts Tutorial</title>
+   <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+   <script src="http://code.highcharts.com/highcharts.js"></script>
+</head>
+<body>
+<div id="mydiv"></div>
+<button id="b1" type="button">显示曲线图</button>
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#b01").click(function(){
+  htmlobj=$.ajax({
+      url:"json.txt",
+      async:false
+   });
+  $("#myDiv").html(htmlobj.responseText);
+  });
+});
+</script>
+</head>
+<body>
+
+<div id="myDiv"><h2>通过 AJAX 改变文本</h2></div>
+<button id="b01" type="button">改变内容</button>
+</body>
+</html>
+			
